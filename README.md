@@ -11,7 +11,8 @@ I also enjoy implementing numerical methods efficiently, including using **MPI a
 More recently, I have been exploring **machine learning and artificial intelligence**. My interest is not in replacing classical CFD with black-box models, but in understanding how AI might complement established numerical methods and make scientific computing **faster, more efficient, and more capable**.
 
 ---
-❤️ Why I Do It
+
+## ❤️ Why I Do It
 
 I am a CFD numerics developer, and most of my work is focused on the mathematical and computational foundations of numerical simulation—developing, understanding, and improving the methods that make CFD possible.
 
