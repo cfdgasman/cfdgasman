@@ -4,7 +4,7 @@ I consider myself an **applied mathematician with an engineering background** wh
 
 My work is rooted in **classical numerical methods, computational fluid dynamics, and scientific computing**. My main area of expertise is **incompressible and low-speed flows**, particularly **pressure–velocity coupling and finite-volume methods**. My broader experience spans **finite difference, finite element, discontinuous Galerkin, and particle-based methods**, including **Molecular Dynamics (MD) and Direct Simulation Monte Carlo (DSMC)**.
 
-What I enjoy most is taking a difficult problem, understanding the mathematics and physics behind it, and turning it into a **numerical method, computational algorithm, or software tool that can actually solve the problem**.
+What I enjoy most is taking a difficult problem, understanding the mathematics and physics behind it, and turning it into a **numerical method, computational algorithm that can actually solve the problem**.
 
 I also enjoy implementing numerical methods efficiently, including using **MPI and GPU/CUDA programming where parallelisation and computational performance matter**. Alongside scientific computing, I develop **end-to-end software and full-stack applications** that turn computational methods into usable tools.
 
