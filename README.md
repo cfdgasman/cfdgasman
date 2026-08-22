@@ -14,7 +14,7 @@ More recently, I have been exploring **machine learning and artificial intellige
 
 ## ❤️ Why I Do It
 
-I am a CFD numerics developer, and most of my work is focused on the mathematical and computational foundations of numerical simulation—developing, understanding, and improving the methods that make CFD possible.
+I am a CFD numerics expert, and most of my work is focused on the mathematical and computational foundations of numerical simulation—developing, understanding, and improving the methods that make CFD possible.
 
 What motivates me beyond the technical challenge is seeing where these tools can ultimately lead.
 
