@@ -11,6 +11,13 @@ I also enjoy implementing numerical methods efficiently, including using **MPI a
 More recently, I have been exploring **machine learning and artificial intelligence**. My interest is not in replacing classical CFD with black-box models, but in understanding how AI might complement established numerical methods and make scientific computing **faster, more efficient, and more capable**.
 
 ---
+❤️ Why I Do It
+
+I am a CFD numerics developer, and most of my work is focused on the mathematical and computational foundations of numerical simulation—developing, understanding, and improving the methods that make CFD possible.
+
+What motivates me beyond the technical challenge is seeing where these tools can ultimately lead.
+
+I have a particular appreciation for the idea that CFD, applied mathematics, thermodynamics, and computational science can be used to improve human life. I would love to see advances in fluid mechanics and numerical simulation contribute to better understanding of universe, improved healthcare technologies, and solutions that can ultimately improve human health, quality of life, and longevity.
 
 ## 🌊 Computational Fluid Dynamics
 
