@@ -18,6 +18,12 @@ I am a CFD numerics expert, and most of my work is focused on the mathematical a
 
 What motivates me, beyond the technical challenge, is hoping these tools can truly support and uplift people in their everyday lives. I have a particular appreciation for the idea that CFD, applied mathematics, thermodynamics, and computational science can be used to improve human life. I would love to see advances in fluid mechanics and numerical simulation contribute to better understanding of universe, improved healthcare technologies, and solutions that can ultimately improve human health, quality of life, and longevity.
 
+## 🤖 AI & Vibe Coding
+
+I enjoy using AI and exploratory coding to learn about and build in diverse areas—trading systems and market analysis, website creation, Python development, and mobile app design. It's a way to rapidly explore ideas across different domains while staying curious and engaged.
+
+---
+
 ## 🌊 Computational Fluid Dynamics
 
 CFD is at the core of much of my work.
