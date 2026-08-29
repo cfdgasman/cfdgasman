@@ -130,6 +130,8 @@ My experience includes:
 - **MPI** for distributed and parallel computation
 - **CUDA / GPU programming** for computational acceleration
 - Parallel numerical algorithms
+- Linear algebra and linear solvers
+- Direct and iterative methods
 - Domain decomposition
 - Performance-oriented implementation
 - Load Balancing and Efficient Coding
