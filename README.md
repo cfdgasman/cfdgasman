@@ -22,6 +22,17 @@ What motivates me, beyond the technical challenge, is hoping these tools can tru
 
 I enjoy using AI and exploratory coding to learn about and build in diverse areas—trading systems and market analysis, website creation, Python development, and mobile app design. It's a way to rapidly explore ideas across different domains while staying curious and engaged.
 
+### 🧩 Small public projects
+
+| Project | What it is | Tech |
+|---|---|---|
+| [gas-dynamics-ai](https://github.com/cfdgasman/gas-dynamics-ai) | Python companion code for a gas dynamics book chapter | Python |
+| [4dimensional-images](https://github.com/cfdgasman/4dimensional-images) | Turning a video into a "4-dimensional" image, with time as the fourth axis | Python |
+| [website-creation-example](https://github.com/cfdgasman/website-creation-example) | A 9-page website built with AI and no frameworks | HTML, CSS |
+| [weather-dash](https://github.com/cfdgasman/weather-dash) · [live](https://cfdgasman.github.io/weather-dash/) | Weather dashboard with city search and a 7-day forecast | JavaScript, Open-Meteo |
+| [pomodoro-timer](https://github.com/cfdgasman/pomodoro-timer) · [live](https://cfdgasman.github.io/pomodoro-timer/) | Minimal Pomodoro focus timer | JavaScript |
+| [cli-todo](https://github.com/cfdgasman/cli-todo) | Command-line to-do list with no dependencies, tested with CI | Python |
+
 ---
 
 ## 🌊 Computational Fluid Dynamics
