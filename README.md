@@ -33,6 +33,25 @@ I enjoy using AI and exploratory coding to learn about and build in diverse area
 | [pomodoro-timer](https://github.com/cfdgasman/pomodoro-timer) · [live](https://cfdgasman.github.io/pomodoro-timer/) | Minimal Pomodoro focus timer | JavaScript |
 | [cli-todo](https://github.com/cfdgasman/cli-todo) | Command-line to-do list with no dependencies, tested with CI | Python |
 
+### 🧮 Computational mechanics portfolio
+
+Small, self-contained solvers written from scratch. Each one is **validated against an exact solution or a published benchmark**, has tests running in CI, and has a README with the discretisation and results.
+
+| Project | What it shows | Validation |
+|---|---|---|
+| [lid-driven-cavity](https://github.com/cfdgasman/lid-driven-cavity) | Incompressible Navier–Stokes, FV staggered MAC grid, projection method | Ghia et al. (1982); observed order 2.04 |
+| [sod-shock-tube](https://github.com/cfdgasman/sod-shock-tube) | Compressible Euler, MUSCL + HLLC, exact Riemann solver | Sod, Lax, Toro test 3 |
+| [turbulent-channel-rans](https://github.com/cfdgasman/turbulent-channel-rans) | Mixing-length and Wilcox k-ω RANS, integrated to the wall | Law of the wall, Dean's C<sub>f</sub> (0–2.5 %) |
+| [vof-interface-advection](https://github.com/cfdgasman/vof-interface-advection) | Geometric PLIC-VOF, exact mass conservation | Single vortex, Zalesak disk |
+| [dgsem-couette](https://github.com/cfdgasman/dgsem-couette) | DGSEM on curvilinear elements, BR1 + penalty | Exponential convergence to 10⁻¹³ |
+| [dgsem-entropy-stable](https://github.com/cfdgasman/dgsem-entropy-stable) | Entropy-stable split-form DGSEM (SBP, flux differencing) | Tam acoustic pulse, KHI robustness |
+| [fem-cantilever](https://github.com/cfdgasman/fem-cantilever) | Plane-stress FEM, Q4 vs incompatible modes (shear locking) | Timoshenko–Goodier exact solution |
+| [multigrid-poisson](https://github.com/cfdgasman/multigrid-poisson) | Geometric multigrid V/W/FMG | Grid-independent convergence vs CG |
+| [fd-operator-splitting](https://github.com/cfdgasman/fd-operator-splitting) | FD stability (von Neumann), Lie vs Strang splitting | Fisher–KPP exact wave |
+| [cylinder-wake-pod-dmd](https://github.com/cfdgasman/cylinder-wake-pod-dmd) | Lattice Boltzmann wake + POD (SVD) + DMD | Strouhal from two methods (0.1 %) |
+| [dsmc-rarefied-gas](https://github.com/cfdgasman/dsmc-rarefied-gas) | Hard-sphere DSMC (Bird's NTC) | H-theorem, slip and free-molecular limits |
+| [boltzmann-dvm](https://github.com/cfdgasman/boltzmann-dvm) | Boltzmann–BGK with discrete velocities, asymptotic preserving | Exact Euler and free-molecular limits, vs DSMC |
+
 ---
 
 ## 🌊 Computational Fluid Dynamics
