@@ -50,6 +50,9 @@ Small, self-contained solvers written from scratch. Each one is **validated agai
 | [cylinder-wake-pod-dmd](https://github.com/cfdgasman/cylinder-wake-pod-dmd) | Lattice Boltzmann wake + POD (SVD) + DMD | Strouhal from two methods (0.1 %) |
 | [dsmc-rarefied-gas](https://github.com/cfdgasman/dsmc-rarefied-gas) | Hard-sphere DSMC (Bird's NTC) | H-theorem, slip and free-molecular limits |
 | [boltzmann-dvm](https://github.com/cfdgasman/boltzmann-dvm) | Boltzmann–BGK with discrete velocities, asymptotic preserving | Exact Euler and free-molecular limits, vs DSMC |
+| [sparse-matrix-lab](https://github.com/cfdgasman/sparse-matrix-lab) | Reordering and fill-in, spectra and CFL limits, pseudospectra, CG/GMRES with IC(0)/ILU(0) | Orszag (1971) eigenvalue, Reddy–Henningson transient growth |
+| [schrodinger-orbitals](https://github.com/cfdgasman/schrodinger-orbitals) | Schrödinger equation as sparse eigenproblems, hydrogen on a 262k-point 3D grid | E<sub>n</sub> = −1/(2n²), oscillator n + ½ |
+| [equation-discovery](https://github.com/cfdgasman/equation-discovery) | SINDy / PDE-FIND sparse regression (Brunton & Kutz) | Recovers the Navier–Stokes vorticity equation and ν (0.09 %) |
 
 ---
 
