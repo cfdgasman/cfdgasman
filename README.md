@@ -32,7 +32,6 @@ I enjoy using AI and exploratory coding to learn about and build in diverse area
 | [weather-dash](https://github.com/cfdgasman/weather-dash) · [live](https://cfdgasman.github.io/weather-dash/) | Weather dashboard with city search and a 7-day forecast | JavaScript, Open-Meteo |
 | [pomodoro-timer](https://github.com/cfdgasman/pomodoro-timer) · [live](https://cfdgasman.github.io/pomodoro-timer/) | Minimal Pomodoro focus timer | JavaScript |
 | [cli-todo](https://github.com/cfdgasman/cli-todo) | Command-line to-do list with no dependencies, tested with CI | Python |
-| [unitwise](https://github.com/cfdgasman/unitwise) | Unit converter with a GUI, CLI and TCP server, built as a guided tour of professional Python (uv, strict typing, property-based tests, CI) | Python, tkinter, asyncio |
 
 ### 🧮 Computational mechanics portfolio
 
