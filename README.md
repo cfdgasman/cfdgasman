@@ -46,7 +46,6 @@ Small, self-contained solvers written from scratch. Each one is **validated agai
 | [dgsem-couette](https://github.com/cfdgasman/dgsem-couette) | DGSEM on curvilinear elements, BR1 + penalty | Exponential convergence to 10⁻¹³ |
 | [dgsem-entropy-stable](https://github.com/cfdgasman/dgsem-entropy-stable) | Entropy-stable split-form DGSEM (SBP, flux differencing) | Tam acoustic pulse, KHI robustness |
 | [fem-cantilever](https://github.com/cfdgasman/fem-cantilever) | Plane-stress FEM, Q4 vs incompatible modes (shear locking) | Timoshenko–Goodier exact solution |
-| [multigrid-poisson](https://github.com/cfdgasman/multigrid-poisson) | Geometric multigrid V/W/FMG | Grid-independent convergence vs CG |
 | [fd-operator-splitting](https://github.com/cfdgasman/fd-operator-splitting) | FD stability (von Neumann), Lie vs Strang splitting | Fisher–KPP exact wave |
 | [cylinder-wake-pod-dmd](https://github.com/cfdgasman/cylinder-wake-pod-dmd) | Lattice Boltzmann wake + POD (SVD) + DMD | Strouhal from two methods (0.1 %) |
 | [dsmc-rarefied-gas](https://github.com/cfdgasman/dsmc-rarefied-gas) | Hard-sphere DSMC (Bird's NTC) | H-theorem, slip and free-molecular limits |
