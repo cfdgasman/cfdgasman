@@ -52,6 +52,7 @@ Small, self-contained solvers written from scratch. Each one is **validated agai
 | [boltzmann-dvm](https://github.com/cfdgasman/boltzmann-dvm) | Boltzmann–BGK with discrete velocities, asymptotic preserving | Exact Euler and free-molecular limits, vs DSMC |
 | [sparse-matrix-lab](https://github.com/cfdgasman/sparse-matrix-lab) | Reordering and fill-in, spectra and CFL limits, pseudospectra, CG/GMRES with IC(0)/ILU(0) | Orszag (1971) eigenvalue, Reddy–Henningson transient growth |
 | [schrodinger-orbitals](https://github.com/cfdgasman/schrodinger-orbitals) | Schrödinger equation as sparse eigenproblems, hydrogen on a 262k-point 3D grid | E<sub>n</sub> = −1/(2n²), oscillator n + ½ |
+| [many-electron-atoms](https://github.com/cfdgasman/many-electron-atoms) | Many-electron Schrödinger four ways: Hartree–Fock & LDA atoms (He–Ar) on a log grid, exact 1D helium, Hylleraas helium, H₂⁺ on a 3D grid | NIST LDA and HF limit to 10⁻⁶, exact He to 10⁻⁸ |
 | [equation-discovery](https://github.com/cfdgasman/equation-discovery) | SINDy / PDE-FIND sparse regression (Brunton & Kutz) | Recovers the Navier–Stokes vorticity equation and ν (0.09 %) |
 
 ---
