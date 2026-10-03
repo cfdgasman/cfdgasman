@@ -50,6 +50,7 @@ Small, self-contained solvers written from scratch. Each one is **validated agai
 | [cylinder-wake-pod-dmd](https://github.com/cfdgasman/cylinder-wake-pod-dmd) | Lattice Boltzmann wake + POD (SVD) + DMD | Strouhal from two methods (0.1 %) |
 | [dsmc-rarefied-gas](https://github.com/cfdgasman/dsmc-rarefied-gas) | Hard-sphere DSMC (Bird's NTC) | H-theorem, slip and free-molecular limits |
 | [boltzmann-dvm](https://github.com/cfdgasman/boltzmann-dvm) | Boltzmann–BGK with discrete velocities, asymptotic preserving | Exact Euler and free-molecular limits, vs DSMC |
+| [rarefied-mems-paradoxes](https://github.com/cfdgasman/rarefied-mems-paradoxes) | Knudsen paradox, Knudsen pump and heat flowing from cold to hot: linearised and nonlinear 2D Shakhov kinetic solvers | Sharipov & Seleznev (1998) table, slip coefficients, Onsager symmetry; 2D pump pressure ratio vs theory (0.015 %) |
 | [schrodinger-orbitals](https://github.com/cfdgasman/schrodinger-orbitals) | Schrödinger equation as sparse eigenproblems, hydrogen on a 262k-point 3D grid | E<sub>n</sub> = −1/(2n²), oscillator n + ½ |
 | [equation-discovery](https://github.com/cfdgasman/equation-discovery) | SINDy / PDE-FIND sparse regression (Brunton & Kutz) | Recovers the Navier–Stokes vorticity equation and ν (0.09 %) |
 | [jev-cfd-copilot](https://github.com/cfdgasman/jev-cfd-copilot) | Tutorial: Jev (TypeSafe) and Claude in CFD code. Plain-English rarefied channel flows to a linearized-BGK solver | Sharipov & Seleznev (1998) table; 95 % vs 77.5 % keyword baseline, $0.06 per 1000 requests |
