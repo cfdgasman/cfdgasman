@@ -52,6 +52,7 @@ Small, self-contained solvers written from scratch. Each one is **validated agai
 | [boltzmann-dvm](https://github.com/cfdgasman/boltzmann-dvm) | Boltzmann–BGK with discrete velocities, asymptotic preserving | Exact Euler and free-molecular limits, vs DSMC |
 | [schrodinger-orbitals](https://github.com/cfdgasman/schrodinger-orbitals) | Schrödinger equation as sparse eigenproblems, hydrogen on a 262k-point 3D grid | E<sub>n</sub> = −1/(2n²), oscillator n + ½ |
 | [equation-discovery](https://github.com/cfdgasman/equation-discovery) | SINDy / PDE-FIND sparse regression (Brunton & Kutz) | Recovers the Navier–Stokes vorticity equation and ν (0.09 %) |
+| [jev-cfd-copilot](https://github.com/cfdgasman/jev-cfd-copilot) | Tutorial: Jev (TypeSafe) and Claude in CFD code. Plain-English rarefied channel flows to a linearized-BGK solver | Sharipov & Seleznev (1998) table; 95 % vs 77.5 % keyword baseline, $0.06 per 1000 requests |
 
 ---
 
