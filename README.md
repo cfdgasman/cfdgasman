@@ -29,6 +29,9 @@ I enjoy using AI and exploratory coding to learn about and build in diverse area
 | [gas-dynamics-ai](https://github.com/cfdgasman/gas-dynamics-ai) | Python companion code for a gas dynamics book chapter | Python |
 | [4dimensional-images](https://github.com/cfdgasman/4dimensional-images) | Turning a video into a "4-dimensional" image, with time as the fourth axis | Python |
 | [website-creation-example](https://github.com/cfdgasman/website-creation-example) | A 9-page website built with AI and no frameworks | HTML, CSS |
+| [night-sky](https://github.com/cfdgasman/night-sky) · [live](https://cfdgasman.github.io/night-sky/) | Night Sky Live: the real sky over your location right now, with stars, planets, the Moon and the ISS | JavaScript, three.js, Astronomy Engine |
+| [weather-globe](https://github.com/cfdgasman/weather-globe) · [live](https://cfdgasman.github.io/weather-globe/) | Live Weather Globe: a 3D Earth with day/night, clouds, live weather in 128 cities, wind and earthquakes | JavaScript, three.js, Open-Meteo, USGS |
+| [earth-time-machine](https://github.com/cfdgasman/earth-time-machine) · [live](https://cfdgasman.github.io/earth-time-machine/) | Earth Time Machine: every day of NASA satellite imagery since 2000 on a 3D globe | JavaScript, three.js, NASA GIBS |
 | [weather-dash](https://github.com/cfdgasman/weather-dash) · [live](https://cfdgasman.github.io/weather-dash/) | Weather dashboard with city search and a 7-day forecast | JavaScript, Open-Meteo |
 | [pomodoro-timer](https://github.com/cfdgasman/pomodoro-timer) · [live](https://cfdgasman.github.io/pomodoro-timer/) | Minimal Pomodoro focus timer | JavaScript |
 | [cli-todo](https://github.com/cfdgasman/cli-todo) | Command-line to-do list with no dependencies, tested with CI | Python |
@@ -53,7 +56,6 @@ Small, self-contained solvers written from scratch. Each one is **validated agai
 | [rarefied-mems-paradoxes](https://github.com/cfdgasman/rarefied-mems-paradoxes) | Knudsen paradox, Knudsen pump and heat flowing from cold to hot: linearised and nonlinear 2D Shakhov kinetic solvers | Sharipov & Seleznev (1998) table, slip coefficients, Onsager symmetry; 2D pump pressure ratio vs theory (0.015 %) |
 | [schrodinger-orbitals](https://github.com/cfdgasman/schrodinger-orbitals) | Schrödinger equation as sparse eigenproblems, hydrogen on a 262k-point 3D grid | E<sub>n</sub> = −1/(2n²), oscillator n + ½ |
 | [equation-discovery](https://github.com/cfdgasman/equation-discovery) | SINDy / PDE-FIND sparse regression (Brunton & Kutz) | Recovers the Navier–Stokes vorticity equation and ν (0.09 %) |
-| [jev-cfd-copilot](https://github.com/cfdgasman/jev-cfd-copilot) | Tutorial: Jev (TypeSafe) and Claude in CFD code. Plain-English rarefied channel flows to a linearized-BGK solver | Sharipov & Seleznev (1998) table; 95 % vs 77.5 % keyword baseline, $0.06 per 1000 requests |
 
 ---
 
